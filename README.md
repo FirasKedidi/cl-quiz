@@ -1,4 +1,4 @@
-# cl-quiz :soccer: ![uefa-champions-league](https://user-images.githubusercontent.com/58661767/168824000-212908e0-0fe6-4f01-a118-0081a65570e3.png)
+# cl-quiz :trophy: :soccer: 
 
 * A fun quiz about Champions league
 * Written in plain HTML and vanilla Javascript
